@@ -13,3 +13,6 @@ Montrer que f(x) =0 si et seulement si x=g(x,a,b)
 5) Ecrire une fonction en C
 
 float ptfx(float x,float a,float b,float eps)
+
+calculant la limite de la suite 
+{x0=a+b/2  xn+1=g(xn,a,b)} en utilisant comme test d'arret |xn+1-xn| < epsilone
