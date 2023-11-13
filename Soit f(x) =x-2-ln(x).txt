@@ -7,3 +7,7 @@ Soit f(x) =x-2-ln(x)
 3) definit g(x,a,b)=x-lampda-f(x)
 
 Montrer que f(x) =0 si et seulement si x=g(x,a,b)
+
+4) Definier une fonction g en C
+
+5) Ecrire une fonction en C
