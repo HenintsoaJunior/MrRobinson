@@ -19,3 +19,5 @@ calculant la limite de la suite
 
 
 Utilise alors cette fonction pour resoudre f(x)=0 a eps=10^-6 
+
+7)Tracer simultanemant avec gnuplot les fonction g=f(x),g=g(x,a,b) et g=x et interpreter par rappor au probleme ci dessusk
