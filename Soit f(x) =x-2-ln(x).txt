@@ -1,3 +1,5 @@
 Soit f(x) =x-2-ln(x)
 
 1)Montrer qu'il existe une et seul solution de f(x)=0 dans l'intervalle [a;b] = [1;4]
+
+2) Calculer lampda=b-a/(f(b)-f(a))
