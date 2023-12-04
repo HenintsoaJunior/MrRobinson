@@ -9,8 +9,7 @@ void displayResult(float x0,float eps,float ksi);
 int main(){
     printf("trouver un kis tel que f(x)=0");
 //Donnee
-float a=0.557,b=0.453; //borne d'intervalle
-float x0= (a+b)/2;
+float x0= 7.20;
 
 float eps =1e-6; //precision a atteindre
 
